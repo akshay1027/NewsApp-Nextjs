@@ -1,0 +1,26 @@
+{
+  "name": "news-webapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "axios": "^0.20.0",
+    "framer-motion": "^2.7.7",
+    "next": "9.5.5",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-spring": "^8.0.27",
+    "react-waypoint": "^9.0.3",
+    "styled-components": "^5.2.0",
+    "styled-reset-advanced": "^1.0.3"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.11.1"
+  }
+}
